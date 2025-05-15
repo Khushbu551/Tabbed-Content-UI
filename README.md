@@ -11,6 +11,8 @@ THis project is a simple **Tabed Content UI** built using **HTML & CSS**. It all
 - **Smooth Transitions** - Hover and selection effects for a better user experience.
 - **Images & Quotes** - Each tab contains an image with a motivational quote.
 
+**Note:** THis project was built for learning purposes to explore and practice [mention technologies]. Security and production-level optimizations are not the primary focus.
+
 ## Preview
 
 ![preview](/pic.png)
